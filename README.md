@@ -27,7 +27,7 @@ Install the app from Github then run npm i in the terminal
 
 Open up the terminal and run the server. Use insomia to go through GET, POST, PUT, and DELETE for tags, categories, and products.
 
-![Demo video](./assets/IMG.PNG)(https://drive.google.com/file/d/1S7FJvO806R02pIjxTsffF_ojYiKeqU0a/view?usp=sharing)
+![Demo video](./assets/IMG.PNG)(https://drive.google.com/file/d/1pJuqjHCeSc9N073SwmYirl2vL_ldZTni/view?usp=sharing)
 
 ## Credits
 
